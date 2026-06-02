@@ -1,23 +1,23 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=sua&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20Analyst%20%7C%20Performance%20Marketer&descSize=18&descAlignY=60)
+
 <div align="center">
 
-# 안녕하세요, sua입니다 👋
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=79C83D&center=true&vCenter=true&width=500&lines=데이터+속에서+인사이트를+찾아냅니다+📊;소셜데이터사이언스+전공자+🎓;빅데이터분석기사+보유+🏆)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Google+%26+Meta+캠페인+성과+분석+📊;엔터테인먼트+%26+미디어+현업+경험+🎬;데이터로+마케팅을+말합니다+📈)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ark-netizen&color=79C83D&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=ark-netizen&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 🎓 학력
+## 💼 경력
 
-| 전공 | 내용 |
+| 분야 | 내용 |
 |------|------|
-| 🏫 학부 졸업 | 소셜데이터사이언스 연계전공 |
+| 🎬 엔터테인먼트 & 미디어 | 현업 실무 경험 |
+| 📈 퍼포먼스 마케팅 | Google · Meta 광고 운영 및 GA4 기반 데이터 분석, 캠페인 성과 측정 |
 
 ---
 
@@ -35,16 +35,20 @@
 
 ## 🛠️ 기술 스택
 
-### 언어 & 데이터
+### 📣 마케팅 & 광고
+![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta%20Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white)
+![GA4](https://img.shields.io/badge/Google%20Analytics%204-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![GTM](https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white)
+
+### 💻 언어 & 데이터
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 데이터 분석 & 시각화
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-### 도구
+### 🔧 도구
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
@@ -73,10 +77,4 @@
 
 </div>
 
----
-
-<div align="center">
-
-*"데이터 속에서 인사이트를 찾아냅니다"*
-
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
