@@ -2,7 +2,6 @@
 
 # 안녕하세요, sua입니다 👋
 
-**데이터 분석을 사랑하는 소셜데이터사이언스 전공자**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=79C83D&center=true&vCenter=true&width=500&lines=데이터+속에서+인사이트를+찾아냅니다+📊;소셜데이터사이언스+전공자+🎓;빅데이터분석기사+보유+🏆)](https://git.io/typing-svg)
 
