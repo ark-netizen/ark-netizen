@@ -37,10 +37,6 @@
 
 > AI 활용 서비스 개발 — LLM API 연동, 프롬프트 엔지니어링, AI 기반 자동화 도구 제작을 학습하고 있습니다.
 
-![Claude](https://img.shields.io/badge/Claude%20API-0066CC?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
 ---
 
 ## 🛠️ 기술 스택
