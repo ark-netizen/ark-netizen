@@ -1,12 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=sua&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20Analyst%20%7C%20Performance%20Marketer&descSize=18&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=200&section=header&text=sua&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20Analyst%20%7C%20Performance%20Marketer&descSize=18&descAlignY=60)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Google+%26+Meta+캠페인+성과+분석+📊;엔터테인먼트+%26+미디어+현업+경험+🎬;데이터로+마케팅을+말합니다+📈)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=60A5FA&center=true&vCenter=true&width=560&lines=Google+%26+Meta+캠페인+성과+분석+📊;엔터테인먼트+%26+미디어+현업+경험+🎬;데이터로+마케팅을+말합니다+📈;AI+활용+서비스+개발+학습+중+🤖)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ark-netizen&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=ark-netizen&color=60A5FA&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -30,6 +30,16 @@
 | 📊 ADsP (데이터분석 준전문가) | 한국데이터산업진흥원 |
 | 💻 컴퓨터활용능력 1급 | 대한상공회의소 |
 | 🎨 GTQ 포토샵 2급 | 한국생산성본부 |
+
+---
+
+## 🤖 현재 학습 중
+
+> AI 활용 서비스 개발 — LLM API 연동, 프롬프트 엔지니어링, AI 기반 자동화 도구 제작을 학습하고 있습니다.
+
+![Claude](https://img.shields.io/badge/Claude%20API-0066CC?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 ---
 
@@ -77,4 +87,4 @@
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=120&section=footer)
