@@ -4,7 +4,11 @@
 
 **데이터 분석을 사랑하는 소셜데이터사이언스 전공자**
 
-![Profile Views](https://komarev.com/ghpvc/?username=ark-netizen&color=79C83D&style=flat-square&label=Profile+Views)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=79C83D&center=true&vCenter=true&width=500&lines=데이터+속에서+인사이트를+찾아냅니다+📊;소셜데이터사이언스+전공자+🎓;빅데이터분석기사+보유+🏆)](https://git.io/typing-svg)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ark-netizen&color=79C83D&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -52,8 +56,10 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ark-netizen&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ark-netizen&layout=compact&theme=tokyonight&hide_border=true&hide=r&cache_seconds=1800)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ark-netizen&theme=tokyonight)](https://github.com/ark-netizen)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ark-netizen&theme=tokyonight)](https://github.com/ark-netizen)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ark-netizen&theme=tokyonight)](https://github.com/ark-netizen)
 
 </div>
 
