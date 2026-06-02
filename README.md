@@ -4,7 +4,7 @@
 
 **데이터 분석을 사랑하는 소셜데이터사이언스 전공자**
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fark-netizen&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+![Profile Views](https://komarev.com/ghpvc/?username=ark-netizen&color=79C83D&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -52,8 +52,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ark-netizen&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ark-netizen&layout=compact&theme=tokyonight&hide_border=true&hide=r)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ark-netizen&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ark-netizen&layout=compact&theme=tokyonight&hide_border=true&hide=r&cache_seconds=1800)
 
 </div>
 
